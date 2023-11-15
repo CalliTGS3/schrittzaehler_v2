@@ -1,15 +1,6 @@
 
 > Diese Seite bei [https://callitgs3.github.io/schrittzaehler_v2/](https://callitgs3.github.io/schrittzaehler_v2/) öffnen
 
-## Als Erweiterung verwenden
-
-Dieses Repository kann als **Erweiterung** in MakeCode hinzugefügt werden.
-
-* öffne [https://makecode.calliope.cc/](https://makecode.calliope.cc/)
-* klicke auf **Neues Projekt**
-* klicke auf **Erweiterungen** unter dem Zahnrad-Menü
-* nach **https://github.com/callitgs3/schrittzaehler_v2** suchen und importieren
-
 ## Dieses Projekt bearbeiten ![Build status badge](https://github.com/callitgs3/schrittzaehler_v2/workflows/MakeCode/badge.svg)
 
 Um dieses Repository in MakeCode zu bearbeiten.
